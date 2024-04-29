@@ -2,6 +2,31 @@
 
 Python 3.11
 
+# Folder structure
+
+```
+.
+└── leaf/
+    ├── <Class1>/
+    │   ├── img1.tif
+    │   ├── img2.tif
+    │   ├── ...
+    │   └── imgN.tif
+    ├── <Class2>/
+    │   ├── img1.tif
+    │   ├── img2.tif
+    │   ├── ...
+    │   └── imgN.tif
+    ├── ...
+    └── <ClassN>/
+        ├── img1.tif
+        ├── img2.tif
+        ├── ...
+        └── imgN.tif
+```
+
+Folder names are used as class labels.
+
 # Installation
 
 1. `git clone` the repo
