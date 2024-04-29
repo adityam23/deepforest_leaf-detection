@@ -1,0 +1,8 @@
+*.venv/
+leaf*.zip
+leaf*/
+data/
+.ipynb_checkpoints
+model*
+*.jpg
+*.pptx
