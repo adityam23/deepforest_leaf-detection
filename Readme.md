@@ -6,7 +6,24 @@ Python 3.11
 
 ```
 .
-└── leaf/
+├── train/
+│   ├── <Class1>/
+│   │   ├── img1.tif
+│   │   ├── img2.tif
+│   │   ├── ...
+│   │   └── imgN.tif
+│   ├── <Class2>/
+│   │   ├── img1.tif
+│   │   ├── img2.tif
+│   │   ├── ...
+│   │   └── imgN.tif
+│   ├── ...
+│   └── <ClassN>/
+│       ├── img1.tif
+│       ├── img2.tif
+│       ├── ...
+│       └── imgN.tif
+└── test/
     ├── <Class1>/
     │   ├── img1.tif
     │   ├── img2.tif
