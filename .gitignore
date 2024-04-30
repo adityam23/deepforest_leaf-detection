@@ -1,8 +1,10 @@
 *.venv/
 leaf*.zip
-leaf*/
+train/
+test/
 data/
 .ipynb_checkpoints
 model*
 *.jpg
 *.pptx
+runs/
