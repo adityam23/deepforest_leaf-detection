@@ -7,4 +7,5 @@ data/
 model*
 *.jpg
 *.pptx
-runs/
+runs*/
+hypermodel*
